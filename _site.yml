@@ -25,7 +25,8 @@ navbar:
       href: projects.html
     - text: "Awards"
       href: awards.html
-
+    - text: "Co-curricular"
+      href: co.html
   right:
     - icon: fa-envelope-o
       href: mailto:edgar.nieto@huskers.unl.edu                    # CHANGE HERE 
