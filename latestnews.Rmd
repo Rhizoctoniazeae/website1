@@ -1,7 +1,0 @@
----
-title: "Latest news"
----
-
-
-Nothing new to be shown 
-
