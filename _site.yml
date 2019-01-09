@@ -8,8 +8,6 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-    - text: "Latest news"
-      href: latestnews.html
     - text: "Research"
       href: research.html
     - text: "Education"

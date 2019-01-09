@@ -4,6 +4,8 @@ title: "Welcome to my website! "
 
 **My two passions:** Science and Family (friends are considered as household)!
 
+<link rel="stylesheet" href="main.css" type="text/css">
+
 
 <img src="images/picture1.jpg" style="width:45%; border:10px solid; margin-right: 20px">
 <img src="images/picture2.jpg" style="width:45%; border:10px solid; margin-right: 20px">
