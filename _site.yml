@@ -33,5 +33,6 @@ navbar:
     
 output:
   html_document:
-    theme: paper
-    highlight: textmate
+    theme: united
+    highlight: tango
+    
