@@ -34,5 +34,5 @@ navbar:
     
 output:
   html_document:
-    theme: cosmo
+    theme: paper
     highlight: textmate
