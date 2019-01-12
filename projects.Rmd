@@ -1,8 +1,10 @@
 ---
 title: "Projects"
 ---
-
-
+  
+  
+      
+  
 1. Fungicide sensitivity monitoring for fungi affecting the main crops for Mexico  
 
 2. Identification of plant pathogenic fungi and oomycetes in Mexico

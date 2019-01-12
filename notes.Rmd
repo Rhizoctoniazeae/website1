@@ -1,7 +1,10 @@
 ---
 title: " Diseases notes"
 ---
-
+  
+  
+  
+        
 Alvarado-Rosales, D., **Nieto-Lopez, E. H.***, Ayala-Escobar, V., Teliz-Ortiz,D., Nieto-Angel, R., and Tovar-Pedraza, J. M. 2018. First Report of _Gymnosporangium globosum_ on _Crataegus gracilior_ in Mexico. Plant Disease.
 First look. DOI: https://apsjournals.apsnet.org/doi/10.1094/PDIS-02-18-
 0246-PDN

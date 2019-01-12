@@ -1,8 +1,9 @@
 ---
 title: "About myself"
 ---
-
-
+  
+  
+    
 I am a PhD student (2016-2020) in Agronomy with specialization in Plant Pathology at [UNL](https://plantpathology.unl.edu)
   
 My advisor is [Sydney Everhart](https://plantpathology.unl.edu/sydney-everhart)
