@@ -3,7 +3,7 @@ title: "Research"
 ---
   
   
-  
+# Research  
   
 My current research focus on the study of risk of fungicide resistance emergence in [_Sclerotinia sclerotiorum_](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1364-3703.2005.00316.x)
 known as white mold, a fungal pathogen that causes disease outbreaks on soybean. Keen, the aims are  to determine fungicide sensitivity of populations from soybean; evaluate the effect of different fungicide applications on the sensitivity of field populations; and characterize the population structure and genetic diversity populations from soybean throughout the North Central United States and Mexico.

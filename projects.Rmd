@@ -3,7 +3,7 @@ title: "Projects"
 ---
   
   
-      
+# Projects      
   
 1. Fungicide sensitivity monitoring for fungi affecting the main crops for Mexico  
 
