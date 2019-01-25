@@ -22,6 +22,6 @@ My scholarhip is from Mexican government  [CONACyT](https://www.conacyt.gob.mx)
 
 I am passionate about plant fungal pathogens. With huge tools of bioinformatics, I am fascinated about molecular genetic tools and scopes in order to get a finding that contributes to food safety for above 7 billion people where plant diseases is a great challenge 
 
-I’m fond of Data Science and phyton, R, and SQL  enthusiast
+I’m fond of Data Science. R, phyton, markdown and SQL enthusiast. Latex on basic skills
 
 
