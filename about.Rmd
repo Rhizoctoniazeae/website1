@@ -3,10 +3,14 @@ title: "About myself"
 ---
   
 # About myself  
+# Acerca de mi  
     
-I am a PhD student (2016-2020) in Agronomy with specialization in Plant Pathology at [UNL](https://plantpathology.unl.edu)
-  
-My advisor is [Sydney Everhart](https://plantpathology.unl.edu/sydney-everhart)
+I am a PhD student (2016-2020) in Agronomy with specialization in Plant Pathology at [UNL](https://plantpathology.unl.edu)  
+Soy estudiante de doctorado (2016-2020) en Agronomia con especializacion en Fitopatologia [UNL](https://plantpathology.unl.edu)
+ 
+My advisor is [Sydney Everhart](https://plantpathology.unl.edu/sydney-everhart)  
+Mi consejera es [Sydney Everhart](https://plantpathology.unl.edu/sydney-everhart)
+
 
 My thesis is funded by [The North Central Soybean Research Program](http://www.ncsrp.com)  
 

@@ -1,13 +1,12 @@
 ---
-title: "Welcome to my website! "
+title: 'Welcome to my website! '
 ---
   
   
 # Passion
-      
-**My two passions:** Science and Family (friends are considered as household)!
-<link rel="stylesheet" href="main.css" type="text/css">
-
+  
+**My two passions:** Science and Family (friends are considered as household!)  
+**Mi dos pasiones:** Ciencia y Familia (Amigos son considerados como Familia!)
 
 <img src="images/picture1.jpg" style="width:45%; border:10px solid; margin-right: 20px">
 

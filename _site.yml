@@ -1,26 +1,30 @@
 name: "Edgar H Nieto-Lopez"                                # CHANGE HERE 
+
+
 output_dir: "."
 navbar:
+  
   title: "Edgar H Nieto-Lopez"                             # CHANGE HERE 
   type: inverse
   left:
-    - text: "Home"
+  
+    - text: "Home/Pagina principal"
       href: index.html
-    - text: "About"
+    - text: "About/Conoceme"
       href: about.html
-    - text: "Research"
+    - text: "Research/Investigacion"
       href: research.html
-    - text: "Education"
+    - text: "Education/Educacion"
       href: education.html
-    - text: "Talks/Papers"
+    - text: "Talks/Papers/Platicas/Articulos"
       href: papers.html
-    - text: "Diseases notes"
+    - text: "Diseases notes/Notas de enfermedades"
       href: notes.html
     - text: "Blog"
       href: https://edgarnietofungi.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
-    - text: "Projects"
+    - text: "Projects/Proyectos"
       href: projects.html
-    - text: "Awards"
+    - text: "Awards/Premios"
       href: awards.html
     - text: "Co-curricular"
       href: co.html
@@ -30,7 +34,8 @@ navbar:
       href: https://github.com/edgarnietofungi       # CHANGE HERE 
     - icon: fa-twitter fa-lg
       href: https://twitter.com/EdgarNietoFungi
-    
+     
+ 
 output:
   html_document:
     theme: united
@@ -38,5 +43,4 @@ output:
     fig_width: 7
     fig_height: 6
     css: main.css
-    
     
