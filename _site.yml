@@ -8,17 +8,17 @@ navbar:
   type: inverse
   left:
   
-    - text: "Home/Pagina principal"
+    - text: "Home/Página principal"
       href: index.html
-    - text: "About/Conoceme"
+    - text: "About/Conóceme"
       href: about.html
-    - text: "Research/Investigacion"
+    - text: "Research/Investigación"
       href: research.html
-    - text: "Education/Educacion"
+    - text: "Education/Educación"
       href: education.html
-    - text: "Talks/Papers/Platicas/Articulos"
+    - text: "Talks-Papers/Pláticas-Artículos"
       href: papers.html
-    - text: "Diseases notes/Notas de enfermedades"
+    - text: "Diseases notes/Reporte de enfermedades"
       href: notes.html
     - text: "Blog"
       href: https://edgarnietofungi.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 

@@ -5,23 +5,21 @@ title: "About myself"
 # About myself  
 # Acerca de mi  
     
-I am a PhD student (2016-2020) in Agronomy with specialization in Plant Pathology at [UNL](https://plantpathology.unl.edu)  
-Soy estudiante de doctorado (2016-2020) en Agronomia con especializacion en Fitopatologia [UNL](https://plantpathology.unl.edu)
+I am a PhD student (2016-2020) in Agronomy with specialization in Plant Pathology at/ Soy estudiante de doctorado (2016-2020) en Agronomía con especialización en Fitopatología [UNL](https://plantpathology.unl.edu)
  
-My advisor is [Sydney Everhart](https://plantpathology.unl.edu/sydney-everhart)  
-Mi consejera es [Sydney Everhart](https://plantpathology.unl.edu/sydney-everhart)
+My advisor is/ Mi consejera es [Sydney Everhart](https://plantpathology.unl.edu/sydney-everhart)
 
 
-My thesis is funded by [The North Central Soybean Research Program](http://www.ncsrp.com)  
+My thesis is funded by/ Mi tesis esta financiada por [The North Central Soybean Research Program](http://www.ncsrp.com)  
 
-Our collaborators are:  
+Our collaborators are/ Nuestros colaboradores son:  
 1. [Tamra Jackson (UNL)](https://cropwatch.unl.edu/author/tamra-jackson-ziems-extension-plant-pathologist)  
 2. [Loren Giesler (UNL)](https://plantpathology.unl.edu/loren-giesler)  
 3. [Daren Mueller (ISU)](https://www.plantpath.iastate.edu/people/daren-mueller)  
 4. [Damon Smith (UW-Madison)](https://plantpath.wisc.edu/damon-smith-2/)  
 5. [Martin Chilvers (MSU)](https://www.canr.msu.edu/people/chilvers_martin)  
 
-My scholarhip is from Mexican government  [CONACyT](https://www.conacyt.gob.mx)
+My scholarhip is from Mexican government/ Mi beca esta financiada por el gobierno mexicano  [CONACyT](https://www.conacyt.gob.mx)
 
 
 I am passionate about plant fungal pathogens. With huge tools of bioinformatics, I am fascinated about molecular genetic tools and scopes in order to get a finding that contributes to food safety for above 7 billion people where plant diseases is a great challenge 
