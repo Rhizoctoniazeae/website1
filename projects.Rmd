@@ -5,11 +5,11 @@ title: "Projects"
   
 # Projects      
   
-1. Fungicide sensitivity monitoring for fungi affecting the main crops for Mexico  
+1. Fungicide sensitivity monitoring for fungi affecting the main crops for Mexico/Monitoreo de la sensibilidad a fungicidas de los hongos que afectan los principales cultivos de México  
 
-2. Identification of plant pathogenic fungi and oomycetes in Mexico
-
-My collaborators are [Santos Gerardo Leyva-Mir](https://www.researchgate.net/profile/Santos_Leyva-Mir) and [Moises Camacho-Tapia](https://www.researchgate.net/profile/Moises_Camacho-Tapia2) from Universidad Autonoma Chapingo, and [Juan Manuel Tovar-Pedraza](https://www.researchgate.net/profile/Juan_Tovar-Pedraza) from CIAD (Centro de Investigación en Alimentación y Desarrollo)
+2. Identification of plant pathogenic fungi and oomycetes in Mexico/Identificación de hongos fitopatógenos y oomicetos de México.
 
 
+
+My collaborators are Santos Gerardo Leyva-Mir and Moises Camacho-Tapia from UACh and Juan Manuel Tovar-Pedraza from CIAD/ Mis colaboradores son [Santos Gerardo Leyva-Mir](https://www.researchgate.net/profile/Santos_Leyva-Mir) y [Moises Camacho-Tapia](https://www.researchgate.net/profile/Moises_Camacho-Tapia2) de la [Universidad Autónoma Chapingo](http://web.chapingo.mx), y  [Juan Manuel Tovar-Pedraza](https://www.researchgate.net/profile/Juan_Tovar-Pedraza) del [Centro de Investigación en Alimentación y Desarrollo](https://www.ciad.mx)
 

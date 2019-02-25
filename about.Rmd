@@ -22,8 +22,8 @@ Our collaborators are/ Nuestros colaboradores son:
 My scholarhip is from Mexican government/ Mi beca esta financiada por el gobierno mexicano  [CONACyT](https://www.conacyt.gob.mx)
 
 
-I am passionate about plant fungal pathogens. With huge tools of bioinformatics, I am fascinated about molecular genetic tools and scopes in order to get a finding that contributes to food safety for above 7 billion people where plant diseases is a great challenge 
+I am passionate about plant fungal pathogens. With huge tools of bioinformatics, I am fascinated about molecular genetic tools and scopes in order to get a finding that contributes to food safety for above 7 billion people where plant diseases is a great challenge/ Soy un apasionado de los hongos fitopatógenos. Con tanta diversidad en la bioinformática, me encuentro fascinado con la herramientas de genética molecular disponibles, enfocado a obtener conocimiento que contribuya con la seguridad alimentaria de poco más de 7 billones de personas, dónde las enfermedades fitopatógenas juegan un papel limitante   
 
-I’m fond of Data Science. R, phyton, markdown and SQL enthusiast. Latex on basic skills
+I’m fond of Data Science. R, phyton, markdown and SQL enthusiast. Latex on basic skills/Soy un emprendedor de la ciencia de manejo de datos, R, phyton, markdown y SQL. Latex a nivel basico
 
 
