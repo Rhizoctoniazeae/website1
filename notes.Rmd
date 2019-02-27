@@ -8,7 +8,7 @@ title: " Diseases notes"
 
 ***corresponding author**  
 
-García-Ruiz, M. T., Galicia-Buendia, N. G., Leyva-Mir, S. G., Camacho-Tapia, M., C. Correia, K., Nieto-López, E. H., & Tovar-Pedraza, J. M. 2019. First Report of Powdery Mildew of European Plum Caused by _Podosphaera tridactyla_ in Mexico.Plant Disease. DOI: https://doi.org/10.1094/PDIS-08-18-1371-PDN  
+García-Ruiz, M. T., Galicia-Buendia, N. G., Leyva-Mir, S. G., Camacho-Tapia, M., C. Correia, K., **Nieto-López, E. H.**, & Tovar-Pedraza, J. M. 2019. First Report of Powdery Mildew of European Plum Caused by _Podosphaera tridactyla_ in Mexico.Plant Disease. DOI: https://doi.org/10.1094/PDIS-08-18-1371-PDN  
 
 Alvarado-Rosales, D., **Nieto-Lopez, E. H.***, Ayala-Escobar, V., Teliz-Ortiz,D., Nieto-Angel, R., and Tovar-Pedraza, J. M. 2018. First Report of _Gymnosporangium globosum_ on _Crataegus gracilior_ in Mexico. Plant Disease.
 First look. DOI: https://apsjournals.apsnet.org/doi/10.1094/PDIS-02-18-
