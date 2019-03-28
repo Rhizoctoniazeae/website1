@@ -9,6 +9,9 @@ title: 'Welcome to my website! '
 **Mi dos pasiones:** Ciencia y Familia (Amigos son considerados como Familia!)
 
 <img src="images/picture1.jpg" style="width:45%; border:10px solid; margin-right: 20px">
+<img src="images/IMG_0064.jpg" style="width:45%; border:10px solid; margin-right: 20px">
+<img src="images/IMG_0066.jpg" style="width:45%; border:10px solid; margin-right: 20px">
+<img src="images/IMG_0067.jpg" style="width:45%; border:10px solid; margin-right: 20px">
 
 <img src="images/picture2.jpg" style="width:45%; border:10px solid; margin-right: 20px">
 <img src="images/picture3.jpg" style="width:45%; border:10px solid; margin-right: 20px">
