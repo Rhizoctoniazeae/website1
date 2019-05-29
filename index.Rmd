@@ -10,19 +10,20 @@ title: 'Welcome to my website! '
 
 <img src="images/picture1.jpg" style="width:45%; border:10px solid; margin-right: 20px">
 <img src="images/IMG_0064.jpg" style="width:45%; border:10px solid; margin-right: 20px">
-<img src="images/IMG_0066.jpg" style="width:45%; border:10px solid; margin-right: 20px">
-<img src="images/IMG_0067.jpg" style="width:45%; border:10px solid; margin-right: 20px">
+<img src="images/picture30.jpg" style="width:45%; border:10px solid; margin-right: 20px">
+<img src="images/picture29.jpg" style="width:45%; border:10px solid; margin-right: 20px">
+<img src="images/picture28.jpg" style="width:45%; border:10px solid; margin-right: 20px">
+<img src="images/picture27.jpg" style="width:45%; border:10px solid; margin-right: 20px">
 
-<img src="images/picture2.jpg" style="width:45%; border:10px solid; margin-right: 20px">
 <img src="images/picture3.jpg" style="width:45%; border:10px solid; margin-right: 20px">
 <img src="images/picture4.jpg" style="width:45%; border:10px solid; margin-right: 20px">
 <img src="images/picture5.jpg" style="width:45%; border:10px solid; margin-right: 20px">
+<img src="images/picture26.jpg" style="width:45%; border:10px solid; margin-right: 20px">
+<img src="images/picture27.jpg" style="width:45%; border:10px solid; margin-right: 20px">
 <img src="images/picture6.jpg" style="width:45%; border:10px solid; margin-right: 20px">
 <img src="images/picture7.jpg" style="width:45%; border:10px solid; margin-right: 20px" >
 <img src="images/picture8.jpg" style="width:45%; border:10px solid; margin-right: 20px">
 <img src="images/picture9.jpg" style="width:45%; border:10px solid; margin-right: 20px">
-<img src="images/picture10.jpg" style="width:45%; border:10px solid; margin-right: 20px">
-<img src="images/picture11.jpg" style="width:45%; border:10px solid; margin-right: 20px">
 <img src="images/picture12.jpg" style="width:45%; border:10px solid; margin-right: 20px" >
 <img src="images/picture13.jpg" style="width:45%; border:10px solid; margin-right: 20px" >
 <img src="images/picture14.jpg" style="width:45%; border:10px solid; margin-right: 20px" >
