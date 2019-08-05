@@ -8,6 +8,7 @@ title: 'Welcome to my website! '
 **My two passions:** Science and Family (friends are considered as household!)  
 **Mi dos pasiones:** Ciencia y Familia (Amigos son considerados como Familia!)
 
+<img src="images/picture32.jpg" style="width:45%; border:10px solid; margin-right: 20px">
 <img src="images/picture1.jpg" style="width:45%; border:10px solid; margin-right: 20px">
 <img src="images/IMG_0064.jpg" style="width:45%; border:10px solid; margin-right: 20px">
 <img src="images/picture30.jpg" style="width:45%; border:10px solid; margin-right: 20px">
@@ -39,3 +40,6 @@ title: 'Welcome to my website! '
 <img src="images/picture24.jpg" style="width:45%; border:10px solid; margin-right: 20px" >
 <img src="images/picture25.jpg" style="width:45%; border:10px solid; margin-right: 20px" >
 
+<img src="images/picture31.jpg" style="width:45%; border:10px solid; margin-right: 20px" >
+<img src="images/picture33.jpg" style="width:45%; border:10px solid; margin-right: 20px" >
+<img src="images/picture34.jpg" style="width:45%; border:10px solid; margin-right: 20px" >
