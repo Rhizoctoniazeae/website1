@@ -43,3 +43,4 @@ title: 'Welcome to my website! '
 <img src="images/picture31.jpg" style="width:45%; border:10px solid; margin-right: 20px" >
 <img src="images/picture33.jpg" style="width:45%; border:10px solid; margin-right: 20px" >
 <img src="images/picture34.jpg" style="width:45%; border:10px solid; margin-right: 20px" >
+<img src="images/IMG_0108.jpg" style="width:45%; border:10px solid; margin-right: 20px" >
