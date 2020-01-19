@@ -8,7 +8,7 @@ navbar:
   type: inverse
   left:
   
-    - text: "Home/Página principal"
+    - text: "Home"
       href: index.html
     - text: "About/Conóceme"
       href: about.html
