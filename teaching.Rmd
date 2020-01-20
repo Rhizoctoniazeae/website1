@@ -1,29 +1,13 @@
 ---
-title: "About myself"
+title: "Teaching experience"
 ---
   
-# About myself  
-# Acerca de mi  
+# Teaching experience  
+# Experiencia en la enseñanza  
     
-I am a PhD student (2016-2020) in Agronomy with specialization in Plant Pathology at/ Soy estudiante de doctorado (2016-2020) en Agronomía con especialización en Fitopatología [UNL](https://plantpathology.unl.edu)
- 
-My advisor is/ Mi consejera es [Sydney Everhart](https://plantpathology.unl.edu/sydney-everhart)
+Presented a class on data wrangling of the R Club from Agronomy & Horticulture Graduate Association (AHGSA) in fall semester 2019 at UNL/Clase presentada en reordenamiento de datos complejos a unos de fácil acceso para el posterior análisis, en el club de R de la Asociación de Graduados de Agronomía  y Horticultura en el semestre de Otoño del 2019 en UNL.
 
+Presented a class on data wrangling of the R Club from Agronomy & Horticulture Graduate Association (AHGSA) in fall semester 2018 at UNL/ Clase presentada en reordenamiento de datos complejos a unos de fácil acceso para el posterior análisis,en el club de R de la Asociación de Graduados de Agronomía  y Horticultura en el semestre de Otoño del 2018 en UNL.
 
-My thesis is funded by/ Mi tesis esta financiada por [The North Central Soybean Research Program](http://www.ncsrp.com)  
-
-Our collaborators are/ Nuestros colaboradores son:  
-1. [Tamra Jackson (UNL)](https://cropwatch.unl.edu/author/tamra-jackson-ziems-extension-plant-pathologist)  
-2. [Loren Giesler (UNL)](https://plantpathology.unl.edu/loren-giesler)  
-3. [Daren Mueller (ISU)](https://www.plantpath.iastate.edu/people/daren-mueller)  
-4. [Damon Smith (UW-Madison)](https://plantpath.wisc.edu/damon-smith-2/)  
-5. [Martin Chilvers (MSU)](https://www.canr.msu.edu/people/chilvers_martin)  
-
-My scholarhip is from Mexican government/ Mi beca esta financiada por el gobierno mexicano  [CONACyT](https://www.conacyt.gob.mx)
-
-
-I am passionate about plant fungal pathogens. With huge tools of bioinformatics, I am fascinated about molecular genetic tools and scopes in order to get a finding that contributes to food safety for above 7 billion people where plant diseases is a great challenge/ Soy un apasionado de los hongos fitopatógenos. Con tanta diversidad en la bioinformática, me encuentro fascinado con la herramientas de genética molecular disponibles, enfocado a obtener conocimiento que contribuya con la seguridad alimentaria de poco más de 7 billones de personas, dónde las enfermedades fitopatógenas juegan un papel limitante   
-
-I’m fond of Data Science. R, phyton, markdown and SQL enthusiast. Latex on basic skills/Soy un emprendedor de la ciencia de manejo de datos, R, phyton, markdown y SQL. Latex a nivel basico
-
+Assessor Bachelors of two students of Chapingo Autonomous University Mexico, 2012-2013/Asesor de dos estudiantes de licenciatura de la Universidad Autónoma Chapingo. 
 
