@@ -4,8 +4,6 @@ title: " Diseases notes"
   
   
   
-# Diseases Notes        
-
 ***corresponding author**  
 
 García-Ruiz, M. T., Galicia-Buendia, N. G., Leyva-Mir, S. G., Camacho-Tapia, M., C. Correia, K., **Nieto-López, E. H.**, & Tovar-Pedraza, J. M. 2019. First Report of Powdery Mildew of European Plum Caused by _Podosphaera tridactyla_ in Mexico.Plant Disease. DOI: https://doi.org/10.1094/PDIS-08-18-1371-PDN  
