@@ -2,7 +2,8 @@
 title: " Diseases notes"
 ---
   
-  
+# Diseases Notes
+# Notas de Enfermedades
   
 ***corresponding author**  
 
