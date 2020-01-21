@@ -1,5 +1,5 @@
 ---
-title: " Diseases notes"
+title: " Diseases Notes"
 ---
   
 # Diseases Notes

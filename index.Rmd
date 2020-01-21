@@ -11,11 +11,9 @@ title: 'Welcome to my website! '
 <img src="images/picture32.jpg" style="width:45%; border:10px solid; margin-right: 20px">
 <img src="images/picture1.jpg" style="width:45%; border:10px solid; margin-right: 20px">
 <img src="images/IMG_0064.jpg" style="width:45%; border:10px solid; margin-right: 20px">
-<img src="images/picture30.jpg" style="width:45%; border:10px solid; margin-right: 20px">
 <img src="images/picture29.jpg" style="width:45%; border:10px solid; margin-right: 20px">
 <img src="images/picture28.jpg" style="width:45%; border:10px solid; margin-right: 20px">
 <img src="images/picture27.jpg" style="width:45%; border:10px solid; margin-right: 20px">
-
 <img src="images/picture3.jpg" style="width:45%; border:10px solid; margin-right: 20px">
 <img src="images/picture4.jpg" style="width:45%; border:10px solid; margin-right: 20px">
 <img src="images/picture5.jpg" style="width:45%; border:10px solid; margin-right: 20px">
